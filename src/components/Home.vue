@@ -1,6 +1,5 @@
 <template>
   <Header />
-  <h1>shifu</h1>
   <div id="app">
     <!-- Banner Section -->
     <section class="banner">
